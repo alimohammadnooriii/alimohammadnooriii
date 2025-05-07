@@ -1,4 +1,4 @@
-## Hi Iam Alimohammad 👋
+## Hi I'm Alimohammad 👋
 
 <!--
 **alimohammadnooriii/alimohammadnooriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
